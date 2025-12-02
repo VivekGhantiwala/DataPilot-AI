@@ -117,43 +117,14 @@
 
 <div align="center">
 
-<!-- Feature Cards -->
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
-<h3>🔍 Smart Analysis</h3>
-<p>Automated EDA<br/>Statistical Tests<br/>Data Profiling<br/>Quality Reports</p>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
-<h3>🤖 AutoML</h3>
-<p>Model Selection<br/>Hyperparameter Tuning<br/>Ensemble Methods<br/>Auto-Optimization</p>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
-<h3>🧠 AI Insights</h3>
-<p>Pattern Detection<br/>Anomaly Detection<br/>Smart Recommendations<br/>Auto Reports</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
-<h3>📊 Visualization</h3>
-<p>Interactive Charts<br/>Plotly Integration<br/>Auto Reports<br/>Export Options</p>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
-<h3>📈 Time Series</h3>
-<p>ARIMA/Prophet<br/>Seasonality Analysis<br/>Forecasting<br/>Trend Detection</p>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7571-4f21-8c0c-3645d8fc8e64.gif" width="80">
-<h3>🔮 Explainability</h3>
-<p>SHAP Values<br/>LIME Explanations<br/>Feature Importance<br/>Decision Paths</p>
-</td>
-</tr>
-</table>
+| Feature | Description |
+|:-------:|:------------|
+| 🔍 **Smart Analysis** | Automated EDA, Statistical Tests, Data Profiling, Quality Reports |
+| 🤖 **AutoML** | Model Selection, Hyperparameter Tuning, Ensemble Methods, Auto-Optimization |
+| 🧠 **AI Insights** | Pattern Detection, Anomaly Detection, Smart Recommendations, Auto Reports |
+| 📊 **Visualization** | Interactive Charts, Plotly Integration, Auto Reports, Export Options |
+| 📈 **Time Series** | ARIMA/Prophet, Seasonality Analysis, Forecasting, Trend Detection |
+| 🔮 **Explainability** | SHAP Values, LIME Explanations, Feature Importance, Decision Paths |
 
 </div>
 
