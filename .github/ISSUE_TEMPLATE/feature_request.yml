@@ -1,0 +1,198 @@
+name: ✨ Feature Request
+description: Suggest a new feature or enhancement for DataPilot AI
+title: "[Feature]: "
+labels: ["enhancement", "triage"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## ✨ Feature Request
+        Thanks for helping us improve DataPilot AI! Please describe your feature request in detail.
+        
+        > 💡 **Tip:** Before submitting, check the [Discussions](https://github.com/VivekGhantiwala/DataPilot-AI/discussions) to see if this has been discussed.
+
+  - type: checkboxes
+    id: existing-check
+    attributes:
+      label: Pre-submission Checklist
+      description: Please confirm the following before submitting
+      options:
+        - label: I have searched existing issues and discussions to ensure this feature hasn't been requested
+          required: true
+        - label: I have checked the project roadmap (if available) for planned features
+          required: true
+
+  - type: dropdown
+    id: feature-area
+    attributes:
+      label: Feature Area
+      description: Which area of DataPilot AI does this feature relate to?
+      options:
+        - AutoML Pipeline
+        - Data Preprocessing
+        - Exploratory Data Analysis (EDA)
+        - Visualization
+        - Time Series Analysis
+        - Model Explainability (SHAP/LIME)
+        - AI Insights & Recommendations
+        - Streamlit Dashboard
+        - CLI Interface
+        - Report Generation
+        - New ML Algorithm Support
+        - Integration with External Tools
+        - Performance Optimization
+        - Documentation
+        - Developer Experience
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: feature-type
+    attributes:
+      label: Feature Type
+      description: What type of feature is this?
+      options:
+        - 🆕 New Capability - Something that doesn't exist yet
+        - 🔧 Enhancement - Improve existing functionality
+        - 🔗 Integration - Connect with other tools/services
+        - 🎨 UI/UX Improvement - Better user interface or experience
+        - ⚡ Performance - Speed or efficiency improvement
+        - 📚 Documentation - Better guides, examples, or tutorials
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem-statement
+    attributes:
+      label: Problem Statement
+      description: Describe the problem this feature would solve
+      placeholder: |
+        As a [type of user], I want to [do something] because [reason].
+        
+        Currently, I have to [workaround], which is [problem with workaround].
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed-solution
+    attributes:
+      label: Proposed Solution
+      description: Describe your proposed solution in detail
+      placeholder: |
+        I would like DataPilot AI to support [feature] that:
+        1. Does X
+        2. Allows Y
+        3. Integrates with Z
+        
+        Example usage:
+        ```python
+        from src.new_feature import NewFeature
+        nf = NewFeature()
+        result = nf.do_something()
+        ```
+    validations:
+      required: true
+
+  - type: textarea
+    id: api-design
+    attributes:
+      label: Suggested API / Interface
+      description: If you have ideas about how the API should look, describe it here
+      render: python
+      placeholder: |
+        # Example of how users would interact with this feature
+        
+        from src.automl import AutoML
+        
+        automl = AutoML(
+            task='classification',
+            new_feature_param=True,  # New parameter
+            custom_option='value'
+        )
+        
+        # Or a new method
+        automl.new_method(param1, param2)
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: What alternative solutions or workarounds have you considered?
+      placeholder: |
+        1. **Alternative A**: [Description] - Pros: [...] Cons: [...]
+        2. **Alternative B**: [Description] - Pros: [...] Cons: [...]
+        3. **Current workaround**: [What I'm doing now]
+
+  - type: textarea
+    id: use-cases
+    attributes:
+      label: Use Cases
+      description: Describe specific scenarios where this feature would be valuable
+      placeholder: |
+        **Use Case 1: [Title]**
+        - Scenario: [Description]
+        - Current behavior: [What happens now]
+        - Desired behavior: [What should happen]
+        
+        **Use Case 2: [Title]**
+        - Scenario: [Description]
+        - Current behavior: [What happens now]
+        - Desired behavior: [What should happen]
+
+  - type: textarea
+    id: success-metrics
+    attributes:
+      label: Success Metrics
+      description: How would we know if this feature is successful?
+      placeholder: |
+        - Users can accomplish [task] in [X] fewer steps
+        - Processing time reduced by [X]%
+        - [X]% of users adopt this feature
+        - Positive community feedback
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      description: How important is this feature to you?
+      options:
+        - "🔴 Critical - Blocking my work, no workaround"
+        - "🟠 High - Important for my workflow"
+        - "🟡 Medium - Nice to have, would improve experience"
+        - "🟢 Low - Minor improvement, not urgent"
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Add any other context, mockups, screenshots, or references
+      placeholder: |
+        - Reference implementation: [link]
+        - Similar feature in other tools: [link]
+        - Research papers: [link]
+        - Mockups/diagrams: [attach images]
+
+  - type: textarea
+    id: dependencies
+    attributes:
+      label: Dependencies & Compatibility
+      description: Are there any dependencies or compatibility considerations?
+      placeholder: |
+        - Would require new dependency: [package name]
+        - Must be compatible with: [Python version, OS, etc.]
+        - Related to existing feature: [feature name]
+
+  - type: checkboxes
+    id: contribution
+    attributes:
+      label: Contribution
+      description: Would you like to help implement this feature?
+      options:
+        - label: I would be willing to submit a PR to implement this feature
+        - label: I can help with testing and providing feedback
+        - label: I can help with documentation for this feature

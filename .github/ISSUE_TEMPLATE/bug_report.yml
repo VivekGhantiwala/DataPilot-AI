@@ -1,0 +1,196 @@
+name: 🐛 Bug Report
+description: Report a bug or unexpected behavior in DataPilot AI
+title: "[Bug]: "
+labels: ["bug", "triage"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🐛 Bug Report
+        Thanks for taking the time to report a bug! Please fill out the sections below to help us understand and fix the issue.
+        
+        > **Note:** For security vulnerabilities, please use the [Security tab](https://github.com/VivekGhantiwala/DataPilot-AI/security/policy) instead.
+
+  - type: checkboxes
+    id: existing-issue
+    attributes:
+      label: Pre-submission Checklist
+      description: Please confirm the following before submitting
+      options:
+        - label: I have searched existing issues to ensure this bug hasn't been reported
+          required: true
+        - label: I have read the [documentation](https://github.com/VivekGhantiwala/DataPilot-AI#-documentation)
+          required: true
+        - label: I am using the latest version of DataPilot AI
+          required: true
+
+  - type: dropdown
+    id: component
+    attributes:
+      label: Affected Component
+      description: Which part of DataPilot AI is affected?
+      options:
+        - AutoML Pipeline
+        - Data Preprocessing
+        - Exploratory Data Analysis (EDA)
+        - Visualization
+        - Time Series Analysis
+        - Model Explainability (SHAP/LIME)
+        - AI Insights
+        - Streamlit Dashboard
+        - CLI Interface
+        - Report Generator
+        - Installation/Setup
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Bug Description
+      description: A clear and concise description of what the bug is
+      placeholder: |
+        When I try to [action], I expect [expected behavior], but instead [actual behavior] happens.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction-steps
+    attributes:
+      label: Steps to Reproduce
+      description: Detailed steps to reproduce the behavior
+      placeholder: |
+        1. Load data using `pd.read_csv('data.csv')`
+        2. Initialize AutoML with `automl = AutoML(task='classification')`
+        3. Call `automl.fit(X, y)`
+        4. See error...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected Behavior
+      description: What did you expect to happen?
+      placeholder: I expected the model to train successfully and return predictions.
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual-behavior
+    attributes:
+      label: Actual Behavior
+      description: What actually happened?
+      placeholder: The model threw an error during training with the message...
+    validations:
+      required: true
+
+  - type: textarea
+    id: error-output
+    attributes:
+      label: Error Message / Stack Trace
+      description: If applicable, paste the full error message or stack trace
+      render: python
+      placeholder: |
+        Traceback (most recent call last):
+          File "example.py", line 10, in <module>
+            ...
+        ValueError: ...
+
+  - type: textarea
+    id: code-sample
+    attributes:
+      label: Minimal Reproducible Example
+      description: Provide a minimal code snippet that reproduces the issue
+      render: python
+      placeholder: |
+        import pandas as pd
+        from src.automl import AutoML
+        
+        # Load sample data
+        data = pd.read_csv('data/sample_data.csv')
+        X = data.drop(columns=['target'])
+        y = data['target']
+        
+        # This causes the bug
+        automl = AutoML(task='classification')
+        automl.fit(X, y)
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment Information
+      description: Please provide your environment details
+      value: |
+        - **OS**: [e.g., Windows 11, macOS 14.0, Ubuntu 22.04]
+        - **Python Version**: [e.g., 3.11.5]
+        - **DataPilot AI Version**: [e.g., 1.0.0]
+        - **Installation Method**: [e.g., pip, docker, source]
+        - **Virtual Environment**: [e.g., venv, conda, poetry]
+    validations:
+      required: true
+
+  - type: textarea
+    id: dependencies
+    attributes:
+      label: Relevant Dependencies
+      description: Output of `pip freeze | grep -E "(pandas|numpy|scikit|xgboost|streamlit|shap)"`
+      render: text
+      placeholder: |
+        pandas==2.0.0
+        numpy==1.24.0
+        scikit-learn==1.3.0
+        ...
+
+  - type: textarea
+    id: data-info
+    attributes:
+      label: Dataset Information (if applicable)
+      description: Describe the dataset that triggers the bug (without sharing sensitive data)
+      placeholder: |
+        - Shape: (10000, 25)
+        - Target type: Binary classification
+        - Contains missing values: Yes
+        - Contains categorical columns: Yes (5 columns)
+        - Any special characteristics: ...
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots / Visual Evidence
+      description: If applicable, add screenshots to help explain the problem
+      placeholder: Drag and drop images here or paste image URLs
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Any other information that might be helpful
+      placeholder: |
+        - This worked in version X but broke in version Y
+        - Only happens with specific data types
+        - Related to issue #...
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      description: How severe is this bug?
+      options:
+        - "🔴 Critical - Application crashes or data loss"
+        - "🟠 High - Major feature broken, no workaround"
+        - "🟡 Medium - Feature broken, workaround exists"
+        - "🟢 Low - Minor issue, cosmetic, or edge case"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: contribution
+    attributes:
+      label: Contribution
+      description: Would you like to help fix this bug?
+      options:
+        - label: I would be willing to submit a PR to fix this issue

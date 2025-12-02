@@ -1,0 +1,51 @@
+id,age,income,credit_score,years_employed,debt_ratio,num_accounts,education,employment_type,loan_approved
+1,35,52000,720,8,0.35,4,Bachelor,Full-time,1
+2,28,38000,650,3,0.42,2,High School,Full-time,0
+3,45,78000,780,15,0.25,6,Master,Full-time,1
+4,52,95000,810,22,0.18,8,PhD,Full-time,1
+5,23,32000,580,1,0.55,1,Bachelor,Part-time,0
+6,41,67000,695,12,0.38,5,Bachelor,Full-time,1
+7,33,45000,640,5,0.48,3,High School,Full-time,0
+8,29,41000,670,4,0.40,3,Bachelor,Full-time,1
+9,38,58000,710,10,0.32,4,Master,Full-time,1
+10,55,120000,820,28,0.15,10,PhD,Full-time,1
+11,26,35000,620,2,0.50,2,Bachelor,Part-time,0
+12,44,72000,750,16,0.28,6,Master,Full-time,1
+13,31,48000,680,6,0.38,4,Bachelor,Full-time,1
+14,48,88000,790,20,0.22,7,Master,Full-time,1
+15,24,30000,590,1,0.58,1,High School,Part-time,0
+16,37,62000,705,9,0.35,5,Bachelor,Full-time,1
+17,42,75000,760,14,0.26,6,Master,Self-employed,1
+18,27,36000,630,3,0.45,2,Bachelor,Full-time,0
+19,50,98000,800,24,0.20,8,PhD,Full-time,1
+20,34,54000,700,7,0.36,4,Bachelor,Full-time,1
+21,39,65000,720,11,0.33,5,Master,Full-time,1
+22,25,33000,610,2,0.52,2,High School,Full-time,0
+23,46,82000,775,18,0.24,7,Master,Full-time,1
+24,30,44000,665,5,0.41,3,Bachelor,Full-time,1
+25,53,105000,815,25,0.17,9,PhD,Full-time,1
+26,22,28000,570,0,0.60,1,High School,Part-time,0
+27,36,56000,695,8,0.37,4,Bachelor,Full-time,1
+28,43,70000,740,13,0.29,6,Master,Full-time,1
+29,32,50000,685,6,0.39,4,Bachelor,Full-time,1
+30,47,85000,785,19,0.23,7,Master,Self-employed,1
+31,40,68000,725,12,0.31,5,Bachelor,Full-time,1
+32,28,37000,645,3,0.46,2,Bachelor,Full-time,0
+33,51,100000,805,23,0.19,8,PhD,Full-time,1
+34,35,55000,710,8,0.34,4,Master,Full-time,1
+35,26,34000,625,2,0.49,2,Bachelor,Part-time,0
+36,44,74000,755,15,0.27,6,Master,Full-time,1
+37,38,60000,700,10,0.36,5,Bachelor,Full-time,1
+38,29,40000,660,4,0.43,3,Bachelor,Full-time,1
+39,54,110000,818,26,0.16,9,PhD,Full-time,1
+40,33,52000,690,7,0.37,4,Bachelor,Full-time,1
+41,41,69000,730,13,0.30,5,Master,Full-time,1
+42,24,31000,600,1,0.54,1,High School,Full-time,0
+43,49,92000,795,21,0.21,8,Master,Full-time,1
+44,37,63000,715,9,0.33,5,Bachelor,Self-employed,1
+45,31,47000,675,5,0.40,3,Bachelor,Full-time,1
+46,45,80000,770,17,0.25,7,Master,Full-time,1
+47,27,35000,635,3,0.47,2,Bachelor,Full-time,0
+48,52,102000,810,24,0.18,9,PhD,Full-time,1
+49,34,53000,695,7,0.36,4,Bachelor,Full-time,1
+50,42,73000,745,14,0.28,6,Master,Full-time,1

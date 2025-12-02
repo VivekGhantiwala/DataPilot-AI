@@ -1,0 +1,75 @@
+# ===========================================
+# 🧠 DataPilot AI - Editor Configuration
+# ===========================================
+# EditorConfig helps maintain consistent coding styles
+# https://editorconfig.org
+
+root = true
+
+# ===========================================
+# 🌐 All Files
+# ===========================================
+[*]
+charset = utf-8
+end_of_line = lf
+indent_style = space
+indent_size = 4
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# ===========================================
+# 🐍 Python Files
+# ===========================================
+[*.py]
+indent_size = 4
+max_line_length = 120
+
+# ===========================================
+# 🌐 Web Files (HTML, CSS, JS)
+# ===========================================
+[*.{html,css,js,jsx,ts,tsx}]
+indent_size = 2
+
+# ===========================================
+# 📄 JSON & YAML Files
+# ===========================================
+[*.{json,yml,yaml}]
+indent_size = 2
+
+# ===========================================
+# 📝 Markdown Files
+# ===========================================
+[*.md]
+trim_trailing_whitespace = false
+indent_size = 2
+
+# ===========================================
+# 🐳 Docker Files
+# ===========================================
+[Dockerfile]
+indent_size = 4
+
+# ===========================================
+# ⚙️ Config Files
+# ===========================================
+[*.{toml,ini,cfg}]
+indent_size = 4
+
+# ===========================================
+# 📜 Shell Scripts
+# ===========================================
+[*.{sh,bash,zsh}]
+indent_size = 2
+end_of_line = lf
+
+# ===========================================
+# 📋 Makefiles
+# ===========================================
+[Makefile]
+indent_style = tab
+
+# ===========================================
+# 📦 Requirements Files
+# ===========================================
+[requirements*.txt]
+indent_size = 4

@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discussions
+    url: https://github.com/VivekGhantiwala/DataPilot-AI/discussions
+    about: Have a question or idea? Start a discussion!
+  - name: 📖 Documentation
+    url: https://github.com/VivekGhantiwala/DataPilot-AI#-documentation
+    about: Check out our documentation for guides and examples
+  - name: 🔒 Security Vulnerability
+    url: https://github.com/VivekGhantiwala/DataPilot-AI/security/policy
+    about: Report security vulnerabilities privately via Security tab
