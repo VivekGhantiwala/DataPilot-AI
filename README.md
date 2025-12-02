@@ -117,14 +117,42 @@
 
 <div align="center">
 
-| Feature | Description |
-|:-------:|:------------|
-| 🔍 **Smart Analysis** | Automated EDA, Statistical Tests, Data Profiling, Quality Reports |
-| 🤖 **AutoML** | Model Selection, Hyperparameter Tuning, Ensemble Methods, Auto-Optimization |
-| 🧠 **AI Insights** | Pattern Detection, Anomaly Detection, Smart Recommendations, Auto Reports |
-| 📊 **Visualization** | Interactive Charts, Plotly Integration, Auto Reports, Export Options |
-| 📈 **Time Series** | ARIMA/Prophet, Seasonality Analysis, Forecasting, Trend Detection |
-| 🔮 **Explainability** | SHAP Values, LIME Explanations, Feature Importance, Decision Paths |
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="64" alt="Analytics"/>
+<h3>🔍 Smart Analysis</h3>
+<p>Automated EDA • Statistical Tests<br/>Data Profiling • Quality Reports</p>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="64" alt="AutoML"/>
+<h3>🤖 AutoML</h3>
+<p>Model Selection • Hyperparameter Tuning<br/>Ensemble Methods • Auto-Optimization</p>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/brain.png" width="64" alt="AI"/>
+<h3>🧠 AI Insights</h3>
+<p>Pattern Detection • Anomaly Detection<br/>Smart Recommendations • Auto Reports</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/bar-chart.png" width="64" alt="Visualization"/>
+<h3>📊 Visualization</h3>
+<p>Interactive Charts • Plotly Integration<br/>Auto Reports • Export Options</p>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/stock-share.png" width="64" alt="Time Series"/>
+<h3>📈 Time Series</h3>
+<p>ARIMA/Prophet • Seasonality Analysis<br/>Forecasting • Trend Detection</p>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/crystal-ball.png" width="64" alt="Explainability"/>
+<h3>🔮 Explainability</h3>
+<p>SHAP Values • LIME Explanations<br/>Feature Importance • Decision Paths</p>
+</td>
+</tr>
+</table>
 
 </div>
 
