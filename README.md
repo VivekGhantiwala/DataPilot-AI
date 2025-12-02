@@ -3,8 +3,8 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=🧠%20DataPilot%20AI&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Your%20Intelligent%20Data%20Analysis%20Copilot&descSize=20&descAlignY=55"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=🚀+Transform+Raw+Data+into+Actionable+Insights;⚡+Powered+by+AutoML+%7C+Explainable+AI+%7C+Time+Series" alt="Typing SVG" /></a>
+<!-- Animated Typing Effect -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Transform+Raw+Data+into+Insights;%E2%9A%A1+Powered+by+AutoML+%7C+XAI+%7C+Time+Series;%F0%9F%A4%96+Your+Intelligent+Data+Copilot" alt="Typing SVG" /></a>
 
 <br/>
 
