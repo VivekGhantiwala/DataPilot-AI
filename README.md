@@ -1,14 +1,30 @@
+
 <!-- ============================================ -->
 <!-- 🧠 DATAPILOT AI - STUNNING README           -->
 <!-- ============================================ -->
 
 <div align="center">
 
-<!-- Animated SVG Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=🧠%20DataPilot%20AI&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Your%20Intelligent%20Data%20Analysis%20Copilot&descAlignY=55&descSize=22" width="100%"/>
+<!-- ========== ENHANCED ANIMATED HEADER ========== -->
 
-<!-- Typing Animation Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Transform+Raw+Data+into+Actionable+Insights+%F0%9F%9A%80;AutoML+%7C+Explainable+AI+%7C+Time+Series+Forecasting+%F0%9F%93%8A;No+Code+%E2%80%A2+Low+Code+%E2%80%A2+Full+Code+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<!-- Main Logo with Glow Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&repeat=false&width=500&height=70&lines=%F0%9F%A7%A0+DataPilot+AI" alt="DataPilot AI Logo" />
+
+<!-- Animated Gradient Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,6,20,24,30&height=200&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
+
+<!-- Decorative Line -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<!-- Tagline with Icon Bar -->
+<h3>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"/>
+  Your Intelligent Data Analysis Copilot
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"/>
+</h3>
+
+<!-- Animated Subtitle Line -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Transform+Raw+Data+into+Insights+%F0%9F%9A%80;AutoML+%E2%80%A2+XAI+%E2%80%A2+Time+Series+%F0%9F%93%8A" alt="Typing SVG" />
 
 <br/>
 
@@ -46,8 +62,8 @@
 
 <br/>
 
-<!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Decorative Line -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 </div>
 
@@ -103,7 +119,7 @@ Whether you're a **data scientist** seeking to accelerate workflows, a **busines
 </td>
 <td width="40%">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="200"/>
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/>
 
 **10+ ML Algorithms** • **Auto Preprocessing**  
 **SHAP & LIME** • **Time Series Forecasting**  
@@ -155,7 +171,7 @@ Whether you're a **data scientist** seeking to accelerate workflows, a **busines
 
 ### 🔍 Exploratory Data Analysis
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="80"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="80"/>
 
 **Automated Statistical Analysis**
 
@@ -170,7 +186,7 @@ Whether you're a **data scientist** seeking to accelerate workflows, a **busines
 
 ### 🤖 AutoML Pipeline
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="80"/>
+<img src="https://cdn-icons-png.flaticon.com/512/4616/4616734.png" width="80"/>
 
 **Zero-Config Model Training**
 
@@ -185,7 +201,7 @@ Whether you're a **data scientist** seeking to accelerate workflows, a **busines
 
 ### 📈 Time Series
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="80"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2920/2920349.png" width="80"/>
 
 **Forecasting & Analysis**
 
@@ -206,7 +222,7 @@ Whether you're a **data scientist** seeking to accelerate workflows, a **busines
 
 ### 🔮 Model Explainability
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="80"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png" width="80"/>
 
 **Transparent ML Decisions**
 
@@ -221,7 +237,7 @@ Whether you're a **data scientist** seeking to accelerate workflows, a **busines
 
 ### 🧹 Data Preprocessing
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Broom.png" width="80"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2618/2618486.png" width="80"/>
 
 **Smart Data Cleaning**
 
@@ -236,7 +252,7 @@ Whether you're a **data scientist** seeking to accelerate workflows, a **busines
 
 ### 🧠 AI Insights
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="80"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103652.png" width="80"/>
 
 **Intelligent Recommendations**
 
@@ -322,56 +338,38 @@ Whether you're a **data scientist** seeking to accelerate workflows, a **busines
 
 <div align="center">
 
-```mermaid
-graph TB
-    subgraph Input["📥 Data Input"]
-        CSV[("📄 CSV")]
-        Excel[("📊 Excel")]
-        Parquet[("🗃️ Parquet")]
-    end
+### System Overview
 
-    subgraph Core["🧠 DataPilot AI Core"]
-        direction TB
-        
-        subgraph Preprocessing["🧹 Preprocessing"]
-            MV["Missing Values"]
-            OD["Outlier Detection"]
-            FE["Feature Encoding"]
-            SC["Scaling"]
-        end
-        
-        subgraph Analysis["📊 Analysis"]
-            EDA["Exploratory Analysis"]
-            TS["Time Series"]
-            AI["AI Insights"]
-        end
-        
-        subgraph ML["🤖 Machine Learning"]
-            AutoML["AutoML Pipeline"]
-            Models["10+ Algorithms"]
-            Tuning["Hyperparameter Tuning"]
-        end
-        
-        subgraph XAI["🔮 Explainability"]
-            SHAP["SHAP Values"]
-            LIME["LIME"]
-            FI["Feature Importance"]
-        end
-    end
-
-    subgraph Output["📤 Output"]
-        Dashboard["🎨 Streamlit Dashboard"]
-        Reports["📝 HTML Reports"]
-        API["⚡ Python API"]
-        CLI["💻 CLI"]
-    end
-
-    Input --> Core
-    Core --> Output
-    
-    style Core fill:#1a1a2e,stroke:#6C63FF,stroke-width:3px
-    style Input fill:#16213e,stroke:#00C853,stroke-width:2px
-    style Output fill:#16213e,stroke:#FF6B6B,stroke-width:2px
+```
+                                    ┌─────────────────────────────────────────┐
+                                    │           📥 DATA INPUT                 │
+                                    │   CSV • Excel • Parquet • DataFrame     │
+                                    └─────────────────┬───────────────────────┘
+                                                      │
+                                                      ▼
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                                 │
+│                                    🧠 DATAPILOT AI CORE                                        │
+│                                                                                                 │
+│  ┌──────────────────┐  ┌──────────────────┐  ┌──────────────────┐  ┌──────────────────┐       │
+│  │  🧹 PREPROCESS   │  │  📊 ANALYSIS     │  │  🤖 ML ENGINE    │  │  🔮 EXPLAINER    │       │
+│  │                  │  │                  │  │                  │  │                  │       │
+│  │ • Missing Values │  │ • EDA            │  │ • AutoML         │  │ • SHAP Values    │       │
+│  │ • Outliers       │  │ • Statistics     │  │ • 10+ Algorithms │  │ • LIME           │       │
+│  │ • Encoding       │  │ • Time Series    │  │ • Hyperparameter │  │ • Feature Import │       │
+│  │ • Scaling        │  │ • AI Insights    │  │ • CV & Tuning    │  │ • PDP Plots      │       │
+│  └──────────────────┘  └──────────────────┘  └──────────────────┘  └──────────────────┘       │
+│                                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
+                                                      │
+                    ┌─────────────────────────────────┼─────────────────────────────────┐
+                    │                                 │                                 │
+                    ▼                                 ▼                                 ▼
+        ┌───────────────────┐             ┌───────────────────┐             ┌───────────────────┐
+        │  🎨 DASHBOARD     │             │  💻 CLI           │             │  🐍 PYTHON API    │
+        │  Streamlit UI     │             │  Command Line     │             │  Programmatic     │
+        │  No-Code          │             │  Automation       │             │  Full Control     │
+        └───────────────────┘             └───────────────────┘             └───────────────────┘
 ```
 
 </div>
@@ -441,11 +439,15 @@ graph TB
 
 ### Prerequisites
 
+<div align="center">
+
 | Requirement | Version | Notes |
 |:-----------:|:-------:|:------|
-| 🐍 Python | 3.9+ | 3.11 recommended |
-| 📦 pip | Latest | Package manager |
-| 🔧 Git | Any | For cloning |
+| 🐍 **Python** | 3.9+ | 3.11 recommended |
+| 📦 **pip** | Latest | Package manager |
+| 🔧 **Git** | Any | For cloning |
+
+</div>
 
 ### Installation Options
 
@@ -800,51 +802,83 @@ quick = ai.get_quick_insights()
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ============================================ -->
-<!-- 🤖 AUTOML DETAILS                           -->
+<!-- 🤖 ENHANCED AUTOML SECTION                  -->
 <!-- ============================================ -->
 
 ## 🤖 AutoML Pipeline
 
 <div align="center">
 
-### Supported Algorithms
+### 🚀 End-to-End Automated Machine Learning
+
+<img src="https://img.shields.io/badge/Zero_Config-One_Line_Training-6C63FF?style=for-the-badge" alt="Zero Config"/>
+<img src="https://img.shields.io/badge/10+_Algorithms-Auto_Selection-00C853?style=for-the-badge" alt="10+ Algorithms"/>
+<img src="https://img.shields.io/badge/Hyperparameter-Auto_Tuning-FF6B6B?style=for-the-badge" alt="Auto Tuning"/>
 
 </div>
+
+### 🔄 Pipeline Flow
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                      │
+│                            🤖 AUTOML PIPELINE WORKFLOW                               │
+│                                                                                      │
+│   ┌─────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌──────┐ │
+│   │  DATA   │───▶│  AUTO       │───▶│  MODEL      │───▶│  HYPER      │───▶│DEPLOY│ │
+│   │  INPUT  │    │  PREPROCESS │    │  SELECTION  │    │  TUNING     │    │      │ │
+│   └─────────┘    └─────────────┘    └─────────────┘    └─────────────┘    └──────┘ │
+│       │                │                  │                  │                │     │
+│       ▼                ▼                  ▼                  ▼                ▼     │
+│   CSV/Excel      • Missing Values    • Task Detection   • Grid Search    • Export  │
+│   DataFrame      • Encoding          • Algorithm Pool   • Random Search  • Predict │
+│   Parquet        • Scaling           • Cross-Valid      • Best Params    • Serve   │
+│                                                                                      │
+└──────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+### 📊 Supported Algorithms
 
 <table>
 <tr>
 <td width="50%">
 
-### 📊 Classification
+### 🎯 Classification Models
 
-| Algorithm | Library | Strength |
-|:----------|:--------|:---------|
-| 🌲 Random Forest | scikit-learn | Robust baseline |
-| 🚀 XGBoost | xgboost | High performance |
-| ⚡ LightGBM | lightgbm | Fast training |
-| 🐱 CatBoost | catboost | Categorical data |
-| 📈 Logistic Regression | scikit-learn | Interpretable |
-| 🎯 SVM | scikit-learn | High dimensions |
-| 🏠 K-Nearest Neighbors | scikit-learn | Non-parametric |
-| 🌳 Decision Tree | scikit-learn | Explainable |
-| 🔄 AdaBoost | scikit-learn | Adaptive |
-| 🌿 Extra Trees | scikit-learn | Variance reduction |
+| # | Algorithm | Library | Best For |
+|:-:|:----------|:--------|:---------|
+| 1 | 🌲 Random Forest | scikit-learn | Robust baseline |
+| 2 | 🚀 XGBoost | xgboost | High performance |
+| 3 | ⚡ LightGBM | lightgbm | Large datasets |
+| 4 | 🐱 CatBoost | catboost | Categorical data |
+| 5 | 📈 Logistic Regression | scikit-learn | Interpretable |
+| 6 | 🎯 SVM | scikit-learn | High dimensions |
+| 7 | 🏠 KNN | scikit-learn | Non-parametric |
+| 8 | 🌳 Decision Tree | scikit-learn | Explainable |
+| 9 | 🔄 AdaBoost | scikit-learn | Adaptive |
+| 10 | 🌿 Extra Trees | scikit-learn | Variance reduction |
 
 </td>
 <td width="50%">
 
-### 📈 Regression
+### 📈 Regression Models
 
-| Algorithm | Library | Strength |
-|:----------|:--------|:---------|
-| 📏 Linear Regression | scikit-learn | Simple baseline |
-| 🎚️ Ridge/Lasso | scikit-learn | Regularized |
-| 🌲 Random Forest | scikit-learn | Non-linear |
-| 🚀 XGBoost | xgboost | High performance |
-| ⚡ LightGBM | lightgbm | Large datasets |
-| 🔗 ElasticNet | scikit-learn | L1+L2 |
-| 🎯 SVR | scikit-learn | Kernel methods |
-| 📊 Gradient Boosting | scikit-learn | Sequential |
+| # | Algorithm | Library | Best For |
+|:-:|:----------|:--------|:---------|
+| 1 | 📏 Linear Regression | scikit-learn | Simple baseline |
+| 2 | 🎚️ Ridge | scikit-learn | L2 regularization |
+| 3 | 🎚️ Lasso | scikit-learn | L1 regularization |
+| 4 | 🌲 Random Forest | scikit-learn | Non-linear |
+| 5 | 🚀 XGBoost | xgboost | High performance |
+| 6 | ⚡ LightGBM | lightgbm | Speed |
+| 7 | 🔗 ElasticNet | scikit-learn | L1+L2 combined |
+| 8 | 🎯 SVR | scikit-learn | Kernel methods |
+| 9 | 📊 Gradient Boosting | scikit-learn | Sequential |
+| 10 | 🌿 Extra Trees | scikit-learn | Ensemble |
 
 </td>
 </tr>
@@ -854,14 +888,38 @@ quick = ai.get_quick_insights()
 
 ### ⏰ Time Series Algorithms
 
-| Method | Library | Best For |
-|:-------|:--------|:---------|
-| 📈 ARIMA | statsmodels | Non-seasonal data |
-| 🔄 SARIMA | statsmodels | Seasonal patterns |
-| 📊 Exponential Smoothing | statsmodels | Trend + seasonality |
-| 🔮 Prophet | prophet | Business forecasts |
+| Method | Library | Best For | Features |
+|:-------|:--------|:---------|:---------|
+| 📈 ARIMA | statsmodels | Non-seasonal data | Trend, differencing |
+| 🔄 SARIMA | statsmodels | Seasonal patterns | Seasonality components |
+| 📊 Exponential Smoothing | statsmodels | Trend + seasonality | Level, trend, season |
+| 🔮 Prophet | prophet | Business forecasts | Holidays, events |
 
 </div>
+
+### 🏆 Sample Leaderboard Output
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════════╗
+║                           🏆 AUTOML MODEL LEADERBOARD                             ║
+╠═══════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                   ║
+║  Rank │ Model               │ Accuracy │ Precision │ Recall │ F1-Score │ AUC     ║
+║ ──────┼─────────────────────┼──────────┼───────────┼────────┼──────────┼─────────║
+║   🥇  │ XGBoost             │  0.9421  │   0.9398  │ 0.9445 │  0.9421  │ 0.9712  ║
+║   🥈  │ LightGBM            │  0.9398  │   0.9375  │ 0.9422 │  0.9398  │ 0.9689  ║
+║   🥉  │ Random Forest       │  0.9356  │   0.9334  │ 0.9379 │  0.9356  │ 0.9645  ║
+║   4   │ CatBoost            │  0.9312  │   0.9290  │ 0.9335 │  0.9312  │ 0.9612  ║
+║   5   │ Gradient Boosting   │  0.9289  │   0.9267  │ 0.9312 │  0.9289  │ 0.9601  ║
+║   6   │ Extra Trees         │  0.9234  │   0.9212  │ 0.9257 │  0.9234  │ 0.9567  ║
+║   7   │ AdaBoost            │  0.9156  │   0.9134  │ 0.9179 │  0.9156  │ 0.9523  ║
+║   8   │ SVM                 │  0.9089  │   0.9067  │ 0.9112 │  0.9089  │ 0.9478  ║
+║   9   │ KNN                 │  0.8945  │   0.8923  │ 0.8968 │  0.8945  │ 0.9389  ║
+║  10   │ Logistic Regression │  0.8823  │   0.8801  │ 0.8846 │  0.8823  │ 0.9312  ║
+║                                                                                   ║
+╚═══════════════════════════════════════════════════════════════════════════════════╝
+                     ✅ Best Model: XGBoost (Accuracy: 94.21%)
+```
 
 <br/>
 
@@ -973,64 +1031,74 @@ services:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ============================================ -->
-<!-- 🗺️ ROADMAP SECTION                          -->
+<!-- 🗺️ IMPROVED ROADMAP SECTION                 -->
 <!-- ============================================ -->
 
 ## 🗺️ Roadmap
 
 <div align="center">
 
-### Development Progress
+### 📅 Development Timeline
 
 </div>
 
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#6C63FF', 'edgeLabelBackground':'#1a1a2e', 'tertiaryColor': '#1a1a2e'}}}%%
-timeline
-    title DataPilot AI Development Roadmap
-    
-    section Completed ✅
-        Q3 2024 : Core EDA Module
-                : AutoML Pipeline
-                : Data Preprocessing
-                
-        Q4 2024 : Time Series Analysis
-                : Model Explainability
-                : Streamlit Dashboard
-                : CLI Interface
-                : Docker Support
-    
-    section In Progress 🔄
-        Q1 2025 : Deep Learning Integration
-                : NLP Query Interface
-                : Advanced Visualizations
-    
-    section Planned 📋
-        Q2 2025 : Cloud Deployment Templates
-                : Real-time Streaming
-                : Feature Store Integration
-                
-        Q3 2025 : MLOps Pipeline
-                : Model Monitoring
-                : A/B Testing Framework
+### ✅ Completed (v1.0.0)
+
+<table>
+<tr>
+<td width="50%">
+
+| Feature | Status | Version |
+|:--------|:------:|:-------:|
+| 🔍 Core EDA Module | ✅ Done | v1.0 |
+| 🤖 AutoML Pipeline | ✅ Done | v1.0 |
+| 🧹 Data Preprocessing | ✅ Done | v1.0 |
+| 📈 Time Series Analysis | ✅ Done | v1.0 |
+
+</td>
+<td width="50%">
+
+| Feature | Status | Version |
+|:--------|:------:|:-------:|
+| 🔮 Model Explainability | ✅ Done | v1.0 |
+| 🎨 Streamlit Dashboard | ✅ Done | v1.0 |
+| 💻 CLI Interface | ✅ Done | v1.0 |
+| 🐳 Docker Support | ✅ Done | v1.0 |
+
+</td>
+</tr>
+</table>
+
+### 🔄 In Progress (v1.1.0)
+
+| Feature | Progress | Expected |
+|:--------|:--------:|:--------:|
+| 🧠 Deep Learning Integration | 🟡🟡🟡⚪⚪ 60% | Q1 2025 |
+| 💬 NLP Query Interface | 🟡🟡⚪⚪⚪ 40% | Q1 2025 |
+| 📊 Advanced Visualizations | 🟡🟡🟡🟡⚪ 80% | Q1 2025 |
+
+### 📋 Planned (v2.0.0+)
+
+| Feature | Priority | Timeline |
+|:--------|:--------:|:--------:|
+| ☁️ Cloud Deployment Templates | 🔴 High | Q2 2025 |
+| ⚡ Real-time Streaming Analysis | 🔴 High | Q2 2025 |
+| 🗄️ Feature Store Integration | 🟠 Medium | Q3 2025 |
+| 🔄 MLOps Pipeline | 🟠 Medium | Q3 2025 |
+| 📈 Model Monitoring | 🟡 Normal | Q4 2025 |
+| 🧪 A/B Testing Framework | 🟡 Normal | Q4 2025 |
+
+<div align="center">
+
+### 📊 Overall Progress
+
+```
+Completed    ████████████████████████████████░░░░░░░░  80%
+In Progress  ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░  30%
+Planned      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 ```
 
-### Feature Status
-
-| Feature | Status | Progress |
-|:--------|:------:|:--------:|
-| ✅ Core EDA | Complete | ![100%](https://progress-bar.dev/100) |
-| ✅ AutoML Pipeline | Complete | ![100%](https://progress-bar.dev/100) |
-| ✅ Time Series | Complete | ![100%](https://progress-bar.dev/100) |
-| ✅ Model Explainability | Complete | ![100%](https://progress-bar.dev/100) |
-| ✅ Streamlit Dashboard | Complete | ![100%](https://progress-bar.dev/100) |
-| ✅ CLI Interface | Complete | ![100%](https://progress-bar.dev/100) |
-| ✅ Docker Support | Complete | ![100%](https://progress-bar.dev/100) |
-| 🔄 Deep Learning | In Progress | ![30%](https://progress-bar.dev/30) |
-| 🔄 NLP Interface | In Progress | ![20%](https://progress-bar.dev/20) |
-| 📋 Cloud Templates | Planned | ![0%](https://progress-bar.dev/0) |
-| 📋 Real-time Analysis | Planned | ![0%](https://progress-bar.dev/0) |
-| 📋 MLOps Integration | Planned | ![0%](https://progress-bar.dev/0) |
+</div>
 
 <br/>
 
@@ -1232,9 +1300,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-...
+copies of the Software...
 ```
 
 </div>
@@ -1269,7 +1335,7 @@ furnished to do so, subject to the following conditions:
 <br/>
 
 <!-- ============================================ -->
-<!-- FOOTER                                      -->
+<!-- 🚀 ENHANCED FOOTER                          -->
 <!-- ============================================ -->
 
 <div align="center">
@@ -1285,12 +1351,20 @@ furnished to do so, subject to the following conditions:
 
 <br/><br/>
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Happy%20Analyzing!%20🚀&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+<!-- Decorative Line -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<!-- Enhanced Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,20,24,30&height=180&section=footer&text=Happy%20Analyzing!%20🚀&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 <br/>
 
-### ⭐ Star this repo if you find it helpful!
+<!-- Final Message -->
+<h3>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
+  Thanks for visiting! Star ⭐ this repo if you found it helpful!
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
+</h3>
 
 <br/>
 
